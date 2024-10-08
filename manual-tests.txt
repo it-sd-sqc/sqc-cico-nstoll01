@@ -78,3 +78,14 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 
 ## Expected results
 * Should display "Clean shutdown" in the terminal window.
+
+
+# Module 6: Auto Card Processing
+
+## Test steps
+1. Build and run CiCo.
+2. Type 00000000
+
+## Expected results
+* The program should enter developer mode without the need for clicking the update button,
+  which should also now be gone.
